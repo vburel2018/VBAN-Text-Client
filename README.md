@@ -8,7 +8,7 @@ Example:
   - response: Command.Version = "VB-Audio Matrix (Version 1.0.1.2)";
 
 # Compilation Instructions and Documentation
-VBAN-TEXT Client is a Win32 application using native API and Windows socket that can be compiled for x32 and x64 target. Preprocessor and linket option are given in source header
+VBAN-TEXT Client is a Win32 application using native API and Windows socket that can be compiled for x32 and x64 target. Preprocessor and linker options are given in source header.
 
 # Licensing
 All source code of this SDK is free to use in any kind of project interacting with VB-Audio Software. 
