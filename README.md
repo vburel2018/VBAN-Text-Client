@@ -11,7 +11,7 @@ Example:
 VBAN-TEXT Client is a Win32 application using native API and Windows socket that can be compiled for x32 and x64 target. Preprocessor and linker options are given in source header.
 
 # Licensing
-All source code of this SDK is free to use in any kind of project interacting with VB-Audio Software. 
+All source code of this example is free to use in any kind of project interacting with VB-Audio Software. 
 
 Copyright (c) 2025 Vincent Burel
 
